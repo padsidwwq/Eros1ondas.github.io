@@ -688,13 +688,13 @@
 						if(!this.binded) {
 							this.binded = !0;
 							var e = function(n) {
-									t.openPhotoSwipe.call(t, n, t.element);
+									t.open\photoSwipe.call(t, n, t.element);
 								},
 								n = null;
 							n = this.link ? this.image : this.element, n.addEventListener('click', e);
 						}
 					}
-				}, e.prototype.openPhotoSwipe = function(t, e) {
+				}, e.prototype.open\photoSwipe = function(t, e) {
 					t.preventDefault();
 					var n = this;
 					if(this.gallery.options.lightbox) {

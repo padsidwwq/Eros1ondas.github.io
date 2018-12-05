@@ -4933,7 +4933,7 @@ a.am-close:hover {
 }
 
 .am-icon-image:before,
-.am-icon-photo:before,
+.am-icon-\photo:before,
 .am-icon-picture-o:before {
 	content: "\f03e"
 }
@@ -6392,7 +6392,7 @@ a.am-close:hover {
 }
 
 .am-icon-file-image-o:before,
-.am-icon-file-photo-o:before,
+.am-icon-file-\photo-o:before,
 .am-icon-file-picture-o:before {
 	content: "\f1c5"
 }
